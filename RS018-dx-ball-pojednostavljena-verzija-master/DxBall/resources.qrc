@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Resources/extraBall.png</file>
+        <file>Resources/slow.png</file>
+        <file>Resources/extend.png</file>
+        <file>Resources/background1.png</file>
+        <file>Resources/wallpaper.png</file>
+        <file>Resources/speedUp.png</file>
+        <file>Resources/paddle.png</file>
+        <file>Resources/wallpaper1.png</file>
+        <file>Resources/wallpaper2.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>Resources/jumpsound.wav</file>
+        <file>Resources/wallsound.wav</file>
+        <file>Resources/gameover.wav</file>
+        <file>Resources/pickup.wav</file>
+        <file>Resources/brickhit.wav</file>
+        <file>Resources/victory.wav</file>
+        <file>Resources/click.wav</file>
+        <file>Resources/music.mp3</file>
+    </qresource>
+</RCC>
